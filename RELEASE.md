@@ -4,6 +4,9 @@
 * 內置 so
 * 微調本地伺服器頁面
 * 修復 H264 關鍵影格偵測
+* 支持 Android 12 AC-4
+* 修正 OPUS 和 VORBIS 頻道對應錯誤
+* 支持 DTS、DTS-LBR 和 DTS:X Profile2
 * [點播]
 * 修正嗅探問題
 * 開放刷新詳情、播放、字幕、彈幕
@@ -21,6 +24,9 @@
 * 內置 so
 * 微調本地伺服器頁面
 * 修復 H264 關鍵影格偵測
+* 支持 Android 12 AC-4
+* 修正 OPUS 和 VORBIS 頻道對應錯誤
+* 支持 DTS、DTS-LBR 和 DTS:X Profile2
 * [點播]
 * 新增定時器
 * 修正嗅探問題
