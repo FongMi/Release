@@ -1,5 +1,5 @@
 {
   "code": 225,
-  "name": "0206",
-  "desc": "* [共通]\n* 一些BUG修复\n* 嗅探Rule支持exclude"
+  "name": "0207",
+  "desc": "* [共通]\n* 一些BUG修复\n* 嗅探Rule支持exclude\n* site配置支持indexs字段，代替聚搜开关\n* 弹幕大小微调"
 }
