@@ -2,7 +2,8 @@
 
 * [共通]
 * 一些細節修正
-* 嗅探header支持cookie
+* 支持cookie持久化
+* 嗅探header支持傳遞cookie
 * [直播]
 * 支持catchup參數
 * 修正直播開機啟動
@@ -13,7 +14,8 @@
 
 * [共通]
 * 一些細節修正
-* 嗅探header支持cookie
+* 支持cookie持久化
+* 嗅探header支持傳遞cookie
 * [直播]
 * 支持catchup參數
 * 修正直播捷徑啟動
