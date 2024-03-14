@@ -1,5 +1,5 @@
 {
-  "code": 229,
-  "name": "0308",
-  "desc": "* [共通]\n*  支持clan\n*  修复已知BUG"
+  "code": 230,
+  "name": "2.3.0",
+  "desc": "* [共通]\n*  支持clan://localhost/\n*  修复已知BUG\n*  media升级至1.3.0"
 }
