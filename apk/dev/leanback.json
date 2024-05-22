@@ -1,5 +1,5 @@
 {
   "code": 235,
-  "name": "0522",
+  "name": "0523",
   "desc": "* [共通]\n* DNS 优先选择 ipv4\n* 配置 ads 支持 regex\n* [点播]\n* 修正进度条问题\n* 修正外挂字幕乱码\n* 优化去广告演算法\n* 支持简易 SSA V4 Styles"
 }
