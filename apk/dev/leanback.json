@@ -1,5 +1,5 @@
 {
   "code": 237,
-  "name": "0531",
-  "desc": "* [點播]\n* 优化壁纸载入\n* [直播]\n* 优化 catchup 参数\n* 支持 tvg-name 获取"
+  "name": "0601",
+  "desc": "* [點播]\n* 优化壁纸载入\n* [直播]\n* 回看时可移动进度\n* 优化 catchup 参数\n* 支持 tvg-name 获取"
 }
