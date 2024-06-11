@@ -1,5 +1,5 @@
 {
-  "code": 237,
-  "name": "2.3.7",
-  "desc": "* [共通]\n* 配置 ads 支持 regex\n* 优化 Youtube 播放体验\n* [EXO]\n* 隧道模式下禁止调整速度\n* [直播]\n* 修正地址逗号问题\n* [点播]\n* 修正进度条问题\n* 修正外挂字幕乱码\n* 优化去广告演算法\n* 支持简易 SSA V4 Styles"
+  "code": 238,
+  "name": "2.3.8",
+  "desc": "* [共通]\n* 移除 ijk\n* 优化 exo 视频软解\n* 支持 exo 自动切换软解\n* [點播]\n* 优化壁纸载入\n* 修正 json 解析地址获取\n* [直播]\n* 支持 xml epg\n* 支持 xml.gz epg\n* 回看时可移动进度\n* 优化 catchup 参数\n* 支持 tvg-name 获取\n* 支持 x-tvg-url 获取"
 }
