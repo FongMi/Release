@@ -1,5 +1,5 @@
 {
   "code": "240",
-  "name": "0627",
-  "desc": "* [共通] \n* 壁纸bug修复 \n* 修复投屏bug \n* 修复一些bug \n* [点播] \n* 适配道长proxy中5个参数"
+  "name": "0629",
+  "desc": "* [共通] \n* 壁纸bug修复 \n* 修复投屏bug \n* 修复一些bug \n* [点播] \n* 修复t4参数bug \n* 适配道长proxy中5个参数"
 }
