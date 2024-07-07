@@ -5,7 +5,7 @@
 * 新增注音键盘
 * 新增 yt 列表解析
 * 修正 cookie 获取
-* 播放 UA 预设为 Chrome
+* 播放 UA 预设为 Media3
 
 # 手機版 2.4.2
 
@@ -13,4 +13,4 @@
 * 优化备份检查
 * 新增 yt 列表解析
 * 修正 cookie 获取
-* 播放 UA 预设为 Chrome
+* 播放 UA 预设为 Media3
