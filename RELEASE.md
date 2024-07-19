@@ -5,6 +5,7 @@
 * 新增 media api 獲取播放信息
 * [直播]
 * 配置支持 ads、rules
+* epg 新增時區參數 serverTimeZone
 * [點播]
 * 支持 py 依賴插件
 * 修正 yt 列表解析
@@ -17,7 +18,8 @@
 * 修正軟硬解切換問題
 * 新增 media api 獲取播放信息
 * [直播]
-* 配置支持 ads、rules 
+* 配置支持 ads、rules
+* epg 新增時區參數 serverTimeZone
 * [點播]
 * 支持 py 依賴插件
 * 修正 yt 列表解析
