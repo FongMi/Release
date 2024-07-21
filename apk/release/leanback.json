@@ -1,5 +1,5 @@
 {
-  "code": "243",
-  "name": "2.4.3",
-  "desc": "* [共通] \n* 修复一些bug  \n* 新增注音键盘  \n* 恢复播放器UA \n* [点播] \n* 优化AI去广 "
+  "code": "244",
+  "name": "2.4.4",
+  "desc": "* [共通] \n* 优化exo软解 \n* 升级okhttp \n* 修复X5安装bug \n* [点播] \n* 修复yt列表 \n* 支持py依赖 \n* 扩展js、py方法 \n* [直播] \n* 配置支持ads、rules"
 }
