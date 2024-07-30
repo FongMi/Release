@@ -1,5 +1,5 @@
 {
   "code": "244",
-  "name": "0723",
-  "desc": "* [点播] \n* 优化GO多线 \n* 支持道长hipy"
+  "name": "0726",
+  "desc": "* [共通] \n* 更新 dlna \n* 更新 media3 \n* 还原aes res base64 处理 \n* [点播] \n* 优化GO多线 \n* 支持道长相对路径 ../ \n* 还原 vod name 处理"
 }
