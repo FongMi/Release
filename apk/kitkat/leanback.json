@@ -1,5 +1,5 @@
 {
-  "code": "244",
-  "name": "0728",
-  "desc": "* [共通] \n* 更新 dlna \n* 更新exo 1.4.0 \n* 还原aes res base64 处理 \n* 修复exo升级后软解bug \n* [点播] \n* 优化GO多线 \n* 支持道长相对路径 ../ \n* 还原 vod name 处理"
+  "code": "245",
+  "name": "2.4.5",
+  "desc": "* [共通] \n* 更新 dlna \n* 更新exo 1.4.0 \n* 还原aes res base64 处理 \n* 修复exo升级后软解bug \n* python版本bug修复 \n* [点播] \n* 优化GO多线 \n* 支持道长相对路径 ../ \n* 还原 vod name 处理"
 }
