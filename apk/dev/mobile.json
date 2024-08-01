@@ -1,5 +1,5 @@
 {
   "code": 246,
-  "name": "0801v2",
-  "desc": "* [共通]\n* 修正 media3 字幕問題\n* [直播]\n* 新增 type 3 爬蟲"
+  "name": "0802",
+  "desc": "* [共通]\n* 修正 mpd xml 獲取\n* 修正 media3 字幕問題\n* [直播]\n* 新增 type 3 爬蟲"
 }
