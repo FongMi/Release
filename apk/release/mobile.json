@@ -1,5 +1,5 @@
 {
-  "code": "245",
-  "name": "2.4.5",
-  "desc": "* [共通] \n* 更新 dlna \n* 更新exo 1.4.0 \n* 还原aes res base64 处理 \n* 修复exo升级后软解bug \n* python版本bug修复 \n* 新增与其他APP同时播放的开关 \n* [点播] \n* 优化GO多线 \n* 支持道长相对路径 ../ \n* 还原 vod name 处理"
+  "code": "246",
+  "name": "2.4.6",
+  "desc": "* [共通] \n* 修复一些bug \n* 修复py版兼容性 \n* 优化jar加载 \n* 修复 mpd xml 获取 \n* 修复 media3 字幕问题 \n* 优化 media3 错误处理 \n* [直播] \n* 支持type3 爬虫"
 }
