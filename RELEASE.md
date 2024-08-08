@@ -2,7 +2,8 @@
 
 * [共通]
 * 升級 quickjs
-* 修正 多 jar 問題
+* 修正多 jar 問題
+* 新增長按倍速設置
 * 修正 mpd xml 獲取
 * 修正 media3 字幕問題
 * 優化 media3 錯誤處理
@@ -15,7 +16,8 @@
 
 * [共通]
 * 升級 quickjs
-* 修正 多 jar 問題
+* 修正多 jar 問題
+* 新增長按倍速設置
 * 修正 mpd xml 獲取
 * 修正 media3 字幕問題
 * 優化 media3 錯誤處理
