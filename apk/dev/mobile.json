@@ -1,5 +1,5 @@
 {
   "code": 247,
-  "name": "2.4.7",
-  "desc": "* [共通]\n* 升級 quickjs\n* 修正多 jar 問題\n* 新增長按倍速設置\n* 修正 mpd xml 獲取\n* 修正 media3 字幕問題\n* 優化 media3 錯誤處理\n* [直播]\n* 新增 type 3 爬蟲\n* [點播]\n* 優化嗅探類型解析"
+  "name": "0810",
+  "desc": "* [共通]\n* 預設初始化主jar"
 }
