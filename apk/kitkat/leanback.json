@@ -1,5 +1,5 @@
 {
-  "code": "249",
-  "name": "2.4.9",
-  "desc": "* [共通] \n* 爬虫新增action方法 \n* 修复投屏bug"
+  "code": "250",
+  "name": "2.5.0",
+  "desc": "* [共通] \n* 修复EXO字幕bug \n* 支持type4 action方法"
 }
