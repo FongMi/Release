@@ -1,5 +1,5 @@
 {
-  "code": "259",
-  "name": "2.5.9",
-  "desc": "* [共通] \n* quickjs内核升级 \n* 备份恢复优化"
+  "code": "267",
+  "name": "2.6.7",
+  "desc": "* [共同] \n* 优化猫抓嗅探 \n* 修复恢复弹窗焦点BUG \n* MPV支持播放DATA URI \n* VLC支持播放DATA URI \n* 其他BUG修复 \n* [EXO] \n* 一些重大优化 "
 }
