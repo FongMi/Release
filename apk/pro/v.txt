@@ -1,0 +1,12 @@
+3.0.3
+ 
+* [LIVE]
+* Fix catchup
+* Catchup support replace
+* [EXO]
+* Default use media3 ua
+* [APP]
+* 修复弹幕搜索
+* Optimize error msg
+* [LEANBACK]
+* Optimize search page
