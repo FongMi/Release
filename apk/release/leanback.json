@@ -1,5 +1,5 @@
 {
-  "code": "267",
-  "name": "2.6.7",
-  "desc": "* [共同] \n* 优化猫抓嗅探 \n* 修复恢复弹窗焦点BUG \n* MPV支持播放DATA URI \n* VLC支持播放DATA URI \n* 其他BUG修复 \n* [EXO] \n* 一些重大优化 "
+  "code": "269",
+  "name": "2.6.9",
+  "desc": "* [LIVE] \n* Fix catchup \n* Catchup support replace \n* [EXO] \n* Default use media3 ua \n* [APP] \n* Optimize error msg \n* [LEANBACK] \n* Optimize search page"
 }
