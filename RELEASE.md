@@ -1,9 +1,9 @@
-# 電視版 2.8.2
+# 電視版 2.8.3
 
-* [VOD]
-* Optimize position
+* [EXO]
+* Optimize
 
-# 手機版 2.8.2
+# 手機版 2.8.3
 
-* [VOD]
-* Optimize position
+* [EXO]
+* Optimize
