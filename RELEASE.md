@@ -1,9 +1,9 @@
-# 電視版 2.8.3
+# 電視版 2.8.4
 
-* [EXO]
-* Optimize
+* [VOD]
+* Fix keyword not saved
 
-# 手機版 2.8.3
+# 手機版 2.8.4
 
-* [EXO]
-* Optimize
+* [APP]
+* Update version name
