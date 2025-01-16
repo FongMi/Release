@@ -1,9 +1,9 @@
-# 電視版 2.8.5
-
-* [VOD]
-* Fix keyword not saved
-
-# 手機版 2.8.5
+# 電視版 2.8.6
 
 * [APP]
-* Fix pip crash
+* Add DLNA to home page
+
+# 手機版 2.8.6
+
+* [APP]
+* DLNA supports send start time
