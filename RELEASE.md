@@ -1,9 +1,9 @@
-# 電視版 2.8.6
+# 電視版 2.8.7
 
-* [APP]
-* Add DLNA to home page
+* [EXO]
+* Fix bug
 
-# 手機版 2.8.6
+# 手機版 2.8.7
 
-* [APP]
-* DLNA supports send start time
+* [EXO]
+* Fix bug
