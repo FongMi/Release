@@ -1,11 +1,9 @@
-# 電視版 2.8.8
+# 電視版 2.8.9
 
-* [EXO]
-* Fix bug
 * [APP]
-* Added cast waiting message
+* Fix bug
 
-# 手機版 2.8.8
+# 手機版 2.8.9
 
-* [EXO]
+* [APP]
 * Fix bug
