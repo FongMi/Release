@@ -1,5 +1,5 @@
 {
-  "code": "270",
-  "name": "2.7.0",
-  "desc": "* Fix keyword not saved  \n* Fix pip crash  \n* Optimize"
+  "code": "271",
+  "name": "2.7.1",
+  "desc": "* [EXO] \n* Fix bug \n* [APP] \n* Add DLNA to home page \n* Added cast walting message"
 }
