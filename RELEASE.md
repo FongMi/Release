@@ -1,15 +1,9 @@
-# 電視版 2.9.0
+# 電視版 2.9.1
 
 * [EXO]
-* Fix H265 get stuck
-* Add vc1 decode
-* [APP]
-* Fix yt
+* Optimize
 
-# 手機版 2.9.0
+# 手機版 2.9.1
 
 * [EXO]
-* Fix H265 get stuck
-* Add vc1 decode
-* [APP]
-* Fix yt
+* Optimize
