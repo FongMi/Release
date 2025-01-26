@@ -1,11 +1,9 @@
-# 電視版 2.9.3
+# 電視版 2.9.4
 
 * [EXO]
 * Optimize
-* Fix H265 stuck
 
-# 手機版 2.9.3
+# 手機版 2.9.4
 
 * [EXO]
 * Optimize
-* Fix H265 stuck
