@@ -1,13 +1,19 @@
-# 電視版 2.9.7
+# 電視版 2.9.8
 
+* [EXO]
+* Optimize decode
+* Support back buffer 30s
+* [Live]
+* Support save track selection
 * [APP]
-* Remove speed limit in tunnel mode
-* [VOD]
-* Fix opening time setting
+* Add conscrypt
 
-# 手機版 2.9.7
+# 手機版 2.9.8
 
+* [EXO]
+* Optimize decode
+* Support back buffer 30s
+* [Live]
+* Support save track selection
 * [APP]
-* Remove speed limit in tunnel mode
-* [VOD]
-* Fix opening time setting
+* Add conscrypt
