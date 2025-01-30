@@ -1,9 +1,11 @@
-# 電視版 2.9.9
+# 電視版 3.0.0
 
-* [EXO]
-* Optimize decode
+* [App]
+* Fix 302 with user info
+* Add audio software decode setting
 
-# 手機版 2.9.9
+# 手機版 3.0.0
 
-* [EXO]
-* Optimize decode
+* [App]
+* Fix 302 with user info
+* Add audio software decode setting
