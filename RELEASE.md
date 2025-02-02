@@ -2,8 +2,15 @@
 
 * [Media3]
 * Update av1
+* [Vod]
+* Remove drpy
+* Remove Youtube
+* [Live]
+* Remove p4p~p9p
+* Add m3u chno parse
 * [App]
 * Add conscrypt
+* Update quickjs
 * Remove ecb decode
 * Remove img+ detect
 * Short url support relative paths
@@ -12,8 +19,15 @@
 
 * [Media3]
 * Update av1
+* [Vod]
+* Remove drpy
+* Remove Youtube
+* [Live]
+* Remove p4p~p9p
+* Add m3u chno parse
 * [App]
 * Add conscrypt
+* Update quickjs
 * Remove ecb decode
 * Remove img+ detect
 * Short url support relative paths
