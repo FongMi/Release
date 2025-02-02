@@ -1,4 +1,4 @@
-# 電視版 3.0.1
+# 電視版 3.0.2
 
 * [Media3]
 * Update av1
@@ -15,7 +15,7 @@
 * Remove img+ detect
 * Short url support relative paths
 
-# 手機版 3.0.1
+# 手機版 3.0.2
 
 * [Media3]
 * Update av1
