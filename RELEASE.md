@@ -1,9 +1,11 @@
-# 電視版 3.0.3
+# 電視版 3.0.4
 
 * [App]
-* Remove conscrypt
+* Revert gson
+* Revert js lib
 
-# 手機版 3.0.3
+# 手機版 3.0.4
 
 * [App]
-* Remove conscrypt
+* Revert gson
+* Revert js lib
