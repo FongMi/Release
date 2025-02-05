@@ -1,4 +1,9 @@
-3.0.4
-* Fix keyword not saved 
-* Fix pip crash 
-* Optimize
+3.0.9
+* [EX0]
+* 修复音频软解
+* 更新av1
+* [IJK]
+* 完美av3a解码
+* [App]
+* 短链接支持相对路径
+ 
