@@ -1,9 +1,13 @@
-# 電視版 3.0.6
+# 電視版 3.0.7
 
 * [App]
-* Fixed some bug
+* Support hosts
+* Adjust proxy config
+* Optimize player error msg
 
-# 手機版 3.0.6
+# 手機版 3.0.7
 
 * [App]
-* Fixed some bug
+* Support hosts
+* Adjust proxy config
+* Optimize player error msg
