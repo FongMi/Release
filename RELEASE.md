@@ -1,10 +1,10 @@
-# 電視版 3.0.9
+# 電視版 3.1.0
 
 * [App]
 * Optimize hosts
 * Config add headers
 
-# 手機版 3.0.9
+# 手機版 3.1.0
 
 * [App]
 * Optimize hosts
