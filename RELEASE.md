@@ -1,9 +1,11 @@
-# 電視版 3.0.8
+# 電視版 3.0.9
 
 * [App]
-* Hosts support ipv4/ipv6
+* Optimize hosts
+* Config add headers
 
-# 手機版 3.0.8
+# 手機版 3.0.9
 
 * [App]
-* Hosts support ipv4/ipv6
+* Optimize hosts
+* Config add headers
