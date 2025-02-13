@@ -1,11 +1,9 @@
-# 電視版 3.1.0
+# 電視版 3.1.1
 
-* [App]
-* Optimize hosts
-* Config add headers
+* [Live]
+* Fix crash
 
-# 手機版 3.1.0
+# 手機版 3.1.1
 
-* [App]
-* Optimize hosts
-* Config add headers
+* [Live]
+* Fix crash
