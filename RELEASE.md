@@ -1,9 +1,10 @@
-# 電視版 3.1.1
+# 電視版 3.1.2
 
-* [Live]
-* Fix crash
+* [App]
+* Revert http/3
+* Support google tv background play
 
-# 手機版 3.1.1
+# 手機版 3.1.2
 
-* [Live]
-* Fix crash
+* [App]
+* Revert http/3
