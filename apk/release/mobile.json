@@ -1,5 +1,5 @@
 {
-  "code": "276",
-  "name": "2.7.6",
-  "desc": "* [App] \n* 新增hosts配置 \n* 调整proxy配置 \n* 新增headers配置 \n* 修复下一集通知 \n* [EX0] \n* 优化h264，h265播放"
+  "code": "275",
+  "name": "2.7.5",
+  "desc": "* [App] \n* 恢复ZLive \n* 修复接口302链接 \n* 新增画中画按钮 \n* [EX0] \n* 新增音频软解开关 \n* 支持av3a解码 \n* 软解优化更新av1 \n* 修复某些设备H265卡顿BUG \n* [IJK] \n* 完美av3a解码"
 }
