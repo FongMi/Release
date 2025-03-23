@@ -1,5 +1,5 @@
 {
-  "code": "278",
-  "name": "2.7.8",
-  "desc": "* [App] \n* 修复字幕选择 \n* BUG修复 \n* 优化扫描设备 \n* 优化弹幕加载 \n* 支持多条弹幕地址 \n* 支持后台播放 \n* 优化选择文件 \n* [EXO] \n* 优化 \n* 修复DRM解码 \n* 修复flv没有音轨 \n* [Live] \n* BUG修复 \n* 修复线路名称显示 \n* 支持unix 时间戳回看参数 \n* 移除XC \n* 移除type判断 \n* 支持单个xml epg"
+  "code": "282",
+  "name": "2.8.2",
+  "desc": "* [App] \n* 一些优化 \n* 修复音轨记忆 \n* 修复超级解析 \n* 修复聚合Web解析 \n* 优化T4 \n* [Leanback] \n* 支持后台播放 \n* 优化选择文件 \n* 投屏跟随影视启动开关（个性设置-首页按钮-投屏点击取消） \n* 优化投屏  \n* [Live] \n* DRM支持header \n* DRM支持forceKey"
 }
