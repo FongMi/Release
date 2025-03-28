@@ -1,5 +1,5 @@
 {
-  "code": "282",
-  "name": "2.8.2",
-  "desc": "* [App] \n* 一些优化 \n* 修复音轨记忆 \n* 修复超级解析 \n* 修复聚合Web解析 \n* 优化T4  \n* 新增分类弹窗 \n* 支持后台下载 \n* 支持下载通知 \n* [Live] \n* DRM支持header \n* DRM支持forceKey"
+  "code": "283",
+  "name": "2.8.3",
+  "desc": "* [App] \n* 一些优化 \n* 修复音轨记忆 \n* 修复超级解析 \n* 修复聚合Web解析 \n* 优化T4 \n* 修复py proxy header  \n* 新增分类弹窗 \n* 支持后台下载 \n* 支持下载通知 \n* [Live] \n* DRM支持header \n* DRM支持forceKey"
 }
