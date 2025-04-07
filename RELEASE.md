@@ -1,14 +1,9 @@
-# 電視版 3.5.2
+# 電視版 3.5.3
 
 * [App]
-* Support avif
-* [Media3]
-* Optimize smb://
+* Fix crash
 
-# 手機版 3.5.2
+# 手機版 3.5.3
 
 * [App]
-* Support avif
-* Fix gesture check
-* [Media3]
-* Optimize smb://
+* Fix crash
