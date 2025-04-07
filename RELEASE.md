@@ -1,13 +1,13 @@
-# 電視版 3.5.0
+# 電視版 3.5.1
 
 * [App]
-* Adjust sniffer rule
+* Support avif
 * [Media3]
-* Bypass http error
+* Optimize smb://
 
-# 手機版 3.5.0
+# 手機版 3.5.1
 
 * [App]
-* Adjust sniffer rule
+* Support avif
 * [Media3]
-* Bypass http error
+* Optimize smb://
