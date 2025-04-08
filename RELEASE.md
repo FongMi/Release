@@ -1,11 +1,9 @@
-# 電視版 3.5.6
+# 電視版 3.5.7
 
 * [App]
-* Fix smb ts duration
 * Fix danmaku when use jx
 
-# 手機版 3.5.6
+# 手機版 3.5.7
 
 * [App]
-* Fix smb ts duration
 * Fix danmaku when use jx
