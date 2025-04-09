@@ -1,9 +1,9 @@
-# 電視版 3.5.7
+# 電視版 3.5.8
 
 * [App]
-* Fix danmaku when use jx
+* Fix bug
 
-# 手機版 3.5.7
+# 手機版 3.5.8
 
 * [App]
-* Fix danmaku when use jx
+* Fix bug
