@@ -1,9 +1,9 @@
-# 電視版 3.5.9
+# 電視版 3.6.0
 
-* [App]
-* Fix bug
+* [Media3]
+* Fix rrmj h265 play
 
-# 手機版 3.5.9
+# 手機版 3.6.0
 
-* [App]
-* Fix bug
+* [Media3]
+* Fix rrmj h265 play
