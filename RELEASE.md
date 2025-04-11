@@ -1,9 +1,9 @@
-# 電視版 3.6.1
+# 電視版 3.6.2
 
 * [App]
-* Optimize jar proxy
+* Fix bug
 
-# 手機版 3.6.1
+# 手機版 3.6.2
 
 * [App]
-* Optimize jar proxy
+* Fix bug
