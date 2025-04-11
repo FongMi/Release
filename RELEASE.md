@@ -1,9 +1,9 @@
-# 電視版 3.6.0
+# 電視版 3.6.1
 
-* [Media3]
-* Fix rrmj h265 play
+* [App]
+* Optimize jar proxy
 
-# 手機版 3.6.0
+# 手機版 3.6.1
 
-* [Media3]
-* Fix rrmj h265 play
+* [App]
+* Optimize jar proxy
