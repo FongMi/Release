@@ -1,9 +1,9 @@
-# 電視版 3.6.2
+# 電視版 3.6.3
 
-* [App]
-* Fix bug
+* [Media3]
+* Update to 1.6.1
 
-# 手機版 3.6.2
+# 手機版 3.6.3
 
-* [App]
-* Fix bug
+* [Media3]
+* Update to 1.6.1
