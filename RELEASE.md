@@ -1,9 +1,9 @@
-# 電視版 3.6.3
+# 電視版 3.6.4
 
-* [Media3]
-* Update to 1.6.1
+* [Live]
+* Optimize xml epg
 
-# 手機版 3.6.3
+# 手機版 3.6.4
 
-* [Media3]
-* Update to 1.6.1
+* [Live]
+* Optimize xml epg
