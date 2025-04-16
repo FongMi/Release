@@ -1,9 +1,9 @@
-# 電視版 3.6.4
+# 電視版 3.6.5
 
 * [Live]
-* Optimize xml epg
+* Support parse tvg-id
 
-# 手機版 3.6.4
+# 手機版 3.6.5
 
 * [Live]
-* Optimize xml epg
+* Support parse tvg-id
