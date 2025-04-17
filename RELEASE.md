@@ -1,9 +1,9 @@
-# 電視版 3.6.5
+# 電視版 3.6.6
 
 * [Live]
-* Support parse tvg-id
+* Fix parse tvg-name
 
-# 手機版 3.6.5
+# 手機版 3.6.6
 
 * [Live]
-* Support parse tvg-id
+* Fix parse tvg-name
