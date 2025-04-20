@@ -1,9 +1,9 @@
-# 電視版 3.6.8
+# 電視版 3.6.9
 
-* [Media3]
-* Fix buffer bug
+* [App]
+* Optimize get ip
 
-# 手機版 3.6.8
+# 手機版 3.6.9
 
-* [Media3]
-* Fix buffer bug
+* [App]
+* Optimize get ip
