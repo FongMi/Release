@@ -1,9 +1,9 @@
-# 電視版 3.6.7
+# 電視版 3.6.8
 
-* [App]
-* Support digest auth
+* [Media3]
+* Fix buffer bug
 
-# 手機版 3.6.7
+# 手機版 3.6.8
 
-* [App]
-* Support digest auth
+* [Media3]
+* Fix buffer bug
