@@ -1,9 +1,9 @@
-# 電視版 3.7.0
+# 電視版 3.7.1
 
-* [Vod]
-* Fix ending value bug
+* [App]
+* Fix 302 crash
 
-# 手機版 3.7.0
+# 手機版 3.7.1
 
-* [Vod]
-* Fix ending value bug
+* [App]
+* Fix 302 crash
