@@ -1,5 +1,5 @@
 {
-  "code": "287",
-  "name": "2.8.7",
-  "desc": "* [App] \n* 一些优化 \n* 升级AI去广（默认关闭，需要手动打开） \n* java与python版本合并 \n* 弹幕加载优化 \n* 支持avif图片格式 \n* 优化go多线 \n* 修复解析时弹幕加载 \n* [EXO] \n* 升级1.6.0"
+  "code": "288",
+  "name": "2.8.8",
+  "desc": "* [App] \n* 一些优化 \n* 升级AI去广（默认关闭，需要手动打开） \n* java与python版本合并 \n* 弹幕加载优化 \n* 支持avif图片格式 \n* 优化go多线 \n* 修复解析时弹幕加载 \n* 支持digest auth \n* [Live] \n* 支持解析tvg-id \n* 修复解析tvg-name \n* 优化xml epg  \n* [EXO] \n* 升级1.6.1"
 }
