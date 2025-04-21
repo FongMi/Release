@@ -1,9 +1,9 @@
-# 電視版 3.6.9
+# 電視版 3.7.0
 
-* [App]
-* Optimize get ip
+* [Vod]
+* Fix ending value bug
 
-# 手機版 3.6.9
+# 手機版 3.7.0
 
-* [App]
-* Optimize get ip
+* [Vod]
+* Fix ending value bug
