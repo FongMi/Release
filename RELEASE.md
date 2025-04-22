@@ -1,9 +1,9 @@
-# 電視版 3.7.1
+# 電視版 3.7.2
 
 * [App]
-* Fix 302 crash
+* Fix jx check
 
-# 手機版 3.7.1
+# 手機版 3.7.2
 
 * [App]
-* Fix 302 crash
+* Fix jx check
