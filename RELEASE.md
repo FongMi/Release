@@ -1,9 +1,9 @@
-# 電視版 3.7.2
+# 電視版 3.7.3
 
 * [App]
-* Fix jx check
+* Optimize dlna ip get
 
-# 手機版 3.7.2
+# 手機版 3.7.3
 
 * [App]
-* Fix jx check
+* Optimize dlna ip get
