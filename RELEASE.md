@@ -1,9 +1,9 @@
-# 電視版 3.7.6
+# 電視版 3.7.7
 
 * [App]
-* Support 9978 too
+* Fix http server
 
-# 手機版 3.7.6
+# 手機版 3.7.7
 
 * [App]
-* Support 9978 too
+* Fix http server
