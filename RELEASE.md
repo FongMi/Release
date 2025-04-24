@@ -1,9 +1,9 @@
-# 電視版 3.7.5
+# 電視版 3.7.6
 
-* [Media3]
-* Support proxy://
+* [App]
+* Support 9978 too
 
-# 手機版 3.7.5
+# 手機版 3.7.6
 
-* [Media3]
-* Support proxy://
+* [App]
+* Support 9978 too
