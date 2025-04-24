@@ -1,15 +1,9 @@
-# 電視版 3.7.4
+# 電視版 3.7.5
 
-* [App]
-* 9978 -> 8964
-* Support rtspt://
+* [Media3]
 * Support proxy://
-* Remove rtsp setting
 
-# 手機版 3.7.4
+# 手機版 3.7.5
 
-* [App]
-* 9978 -> 8964
-* Support rtspt://
+* [Media3]
 * Support proxy://
-* Remove rtsp setting
