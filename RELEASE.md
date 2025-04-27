@@ -1,9 +1,9 @@
-# 電視版 3.7.9
+# 電視版 3.8.0
 
 * [App]
-* Fix http server
+* Revert icon
 
-# 手機版 3.7.9
+# 手機版 3.8.0
 
 * [App]
-* Fix http server
+* Revert icon
