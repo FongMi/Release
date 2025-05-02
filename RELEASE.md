@@ -1,9 +1,9 @@
-# 電視版 3.8.0
+# 電視版 3.8.1
 
 * [App]
-* Revert icon
+* Fix bug
 
-# 手機版 3.8.0
+# 手機版 3.8.1
 
 * [App]
-* Revert icon
+* Fix bug
