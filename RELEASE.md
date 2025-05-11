@@ -1,9 +1,11 @@
-# 電視版 3.8.1
+# 電視版 3.8.2
 
 * [App]
-* Fix bug
+* Remove local://
+* Optimize okhttp
 
-# 手機版 3.8.1
+# 手機版 3.8.2
 
 * [App]
-* Fix bug
+* Remove local://
+* Optimize okhttp
