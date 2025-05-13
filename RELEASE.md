@@ -1,19 +1,9 @@
-# 電視版 3.8.4
+# 電視版 3.8.5
 
-* [App]
-* Optimize okhttp
-* [Vod]
-* Fix danamku
-* [Live]
-* Fix m3u parser
-* Remove local://
+* [Media3]
+* Optimize
 
-# 手機版 3.8.4
+# 手機版 3.8.5
 
-* [App]
-* Optimize okhttp
-* [Vod]
-* Fix danamku
-* [Live]
-* Fix m3u parser
-* Remove local://
+* [Media3]
+* Optimize
