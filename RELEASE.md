@@ -1,9 +1,9 @@
-# 電視版 3.8.5
+# 電視版 3.8.6
 
-* [Media3]
-* Optimize
+* [App]
+* Fix bug
 
-# 手機版 3.8.5
+# 手機版 3.8.6
 
-* [Media3]
-* Optimize
+* [App]
+* Fix bug
