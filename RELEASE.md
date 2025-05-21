@@ -1,11 +1,9 @@
-# 電視版 3.8.9
+# 電視版 3.9.0
 
 * [App]
-* Fix track name
-* Add prefer aac setting
+* Fix bug
 
-# 手機版 3.8.9
+# 手機版 3.9.0
 
 * [App]
-* Fix track name
-* Add prefer aac setting
+* Fix bug
