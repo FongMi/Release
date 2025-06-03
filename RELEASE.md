@@ -1,9 +1,9 @@
-# 電視版 3.9.4
+# 電視版 3.9.5
 
 * [App]
-* Fix bug
+* Add bug
 
-# 手機版 3.9.4
+# 手機版 3.9.5
 
 * [App]
-* Fix bug
+* Add bug
