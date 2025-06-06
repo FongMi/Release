@@ -1,9 +1,9 @@
-# 電視版 3.9.7
+# 電視版 3.9.8
 
-* [Live]
-* Fix m3u parse
+* [App]
+* Fix bug
 
-# 手機版 3.9.7
+# 手機版 3.9.8
 
-* [Live]
-* Fix m3u parse
+* [App]
+* Fix bug
