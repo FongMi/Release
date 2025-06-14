@@ -1,11 +1,9 @@
-# 電視版 4.0.2
-
-* [Live]
-* epg api support seconds
-
-# 手機版 4.0.2
+# 電視版 4.0.3
 
 * [App]
-* support scale video
-* [Live]
-* epg api support seconds
+* Fix bug
+
+# 手機版 4.0.3
+
+* [App]
+* Fix bug
