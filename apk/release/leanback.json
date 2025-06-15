@@ -1,5 +1,5 @@
 {
-  "code": "293",
-  "name": "2.9.3",
-  "desc": "* [App] \n* Optimize okhttp \n* Fix track name \n* Add prefer aac setting \n* Fix bug \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser"
+  "code": "295",
+  "name": "2.9.5",
+  "desc": "* [App] \n* Optimize okhttp \n* Add flip for vod \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser"
 }
