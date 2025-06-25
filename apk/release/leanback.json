@@ -1,5 +1,5 @@
 {
-  "code": "295",
-  "name": "2.9.5",
-  "desc": "* [App] \n* Optimize okhttp \n* Add flip for vod \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser"
+  "code": "296",
+  "name": "2.9.6",
+  "desc": "* [App] \n* Optimize okhttp \n* Add flip for vod \n* support scale video \n* [Exo] \n* Fix bug \n* [Vod] \n* Fix danamku \n* Fix subtitle \n* [Live] \n* Fix m3u parser \n* epg api support seconds"
 }
