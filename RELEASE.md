@@ -1,19 +1,13 @@
-# 電視版 4.0.5
+# 電視版 4.0.6
 
 * [App]
-* 更新 room 套件
-* 更新 quickjs 套件
-* 修正部分繁簡轉換
-* 支援 Android 16
-* [Vod]
-* 調整片頭片尾限制
+* 更新 okhttp 套件
+* 更新 media3 套件
+* 修正 youtube 播放清單
 
-# 手機版 4.0.5
+# 手機版 4.0.6
 
 * [App]
-* 更新 room 套件
-* 更新 quickjs 套件
-* 修正部分繁簡轉換
-* 支援 Android 16
-* [Vod]
-* 調整片頭片尾限制
+* 更新 okhttp 套件
+* 更新 media3 套件
+* 修正 youtube 播放清單
