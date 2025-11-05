@@ -1,13 +1,3 @@
-3.3.6
+3.6.9
 * [App]
-* Optimize okhttp
-* Add flip for vod
-* support scale video
-* [Exo]
-* Fix bug
-* [Vod]
-* Fix danamku
-* Fix subtitle
-* [Live]
-* Fix m3u parser
-* epg api support seconds
+* BUG修复
