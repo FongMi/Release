@@ -1,9 +1,7 @@
-# 電視版 4.9.5
+# 電視版 4.9.6
 
-* 優化 proxy 方法
-* licence key 支持 header
+* 直播支持設置forceKey
 
-# 手機版 4.9.5
+# 手機版 4.9.6
 
-* 優化 proxy 方法
-* licence key 支持 header
+* 直播支持設置forceKey
