@@ -1,7 +1,7 @@
-# 電視版 5.0.7
+# 電視版 5.0.8
 
-* 微調直播列表
+* playerContent 支持 artwork 欄位
 
-# 手機版 5.0.7
+# 手機版 5.0.8
 
-* 微調直播列表
+* playerContent 支持 artwork 欄位
