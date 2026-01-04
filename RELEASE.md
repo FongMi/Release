@@ -1,7 +1,7 @@
-# 電視版 5.0.8
+# 電視版 5.0.9
 
-* playerContent 支持 artwork 欄位
+* 新增播放控制 api
 
-# 手機版 5.0.8
+# 手機版 5.0.9
 
-* playerContent 支持 artwork 欄位
+* 新增播放控制 api
