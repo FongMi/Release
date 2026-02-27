@@ -1,11 +1,9 @@
-# 電視版 5.2.1
+# 電視版 5.2.2
 
-* 支持 rmvb
-* 優化 hls drm
-* 優化 srt 解析
+* 優化 ffmpeg 解碼
+* 支持 asf、wma、wmv 解碼
 
-# 手機版 5.2.1
+# 手機版 5.2.2
 
-* 支持 rmvb
-* 優化 hls drm
-* 優化 srt 解析
+* 優化 ffmpeg 解碼
+* 支持 asf、wma、wmv 解碼
