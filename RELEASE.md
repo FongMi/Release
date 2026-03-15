@@ -1,9 +1,9 @@
-# 電視版 5.2.8
+# 電視版 5.2.9
 
-* 優化 iso 播放
-* 優化 iso seek
+* 回看參數支持 timestamp
+* iso 的 TrueHD 支持直通
 
-# 手機版 5.2.8
+# 手機版 5.2.9
 
-* 優化 iso 播放
-* 優化 iso seek
+* 回看參數支持 timestamp
+* iso 的 TrueHD 支持直通
