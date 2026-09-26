@@ -1,5 +1,5 @@
 {
-  "code": 564,
-  "name": "5.6.4",
-  "desc": "* 支援 Node.js 爬蟲與 WebView 播放\n* 新增字幕、彈幕內容瀏覽與雙字幕獨立調整\n* 支援 libass 字型與 mpv 腳本\n* 整合 ISO 光碟導覽與選單操作\n* 新增播放畫面雙擊快轉、倒轉\n* 改善 DRM 播放與手機播放設定"
+  "code": 565,
+  "name": "5.6.5",
+  "desc": "* 更新安裝包改由 GitHub Release 附件提供"
 }
